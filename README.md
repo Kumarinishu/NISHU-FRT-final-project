@@ -25,6 +25,8 @@ useful information about heart failure to its user's and also available 24x7 wit
 
 ![Heart-bot-photo5](https://user-images.githubusercontent.com/91931786/154797549-b4316971-1ef4-4d63-8e30-242deb04af49.PNG)
 
+![image](https://user-images.githubusercontent.com/91931786/154798771-f6344363-c8a7-4648-ab3a-efc68540a2b8.png)
+
 ![Heart-bot-photo3](https://user-images.githubusercontent.com/91931786/154797376-04ece633-32ee-4bf3-b557-4955b5b373f1.PNG)
 
 ![Heart-bot-photo4](https://user-images.githubusercontent.com/91931786/154797402-e972965c-c265-4b2f-9947-410b1fb0994a.PNG)
