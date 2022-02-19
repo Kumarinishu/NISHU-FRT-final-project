@@ -1,5 +1,10 @@
 # FUTURE READY TALENT INTERNSHIP PROGRAM
 
+Provided by Microsoft, GitHub, futureskills prime, QUESS and EY
+
+Future Ready Talent is a virtual internship platform for students with an opportunity to learn the in-demand technology skills and work towards solving real world problem using the power of Microsoft Azure & GitHub tools. The students can earn internship credits on completion of the program with an entry to exclusive career fairs.
+The program is open to all students who will be joining the workforce in next 2 years along with students who graduated in 2021.
+
 **Submitted by:**
 Nishu Kumari
 
@@ -33,3 +38,5 @@ useful information about heart failure to its user's and also available 24x7 wit
  nishudubey2000@gmail.com
  
  If you have any queries and suggestions feel free to contact me there!!!!
+ 
+ Thank you Future Ready Talent Program for providing me this great opportunity :))
