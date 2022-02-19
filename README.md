@@ -1,5 +1,8 @@
 # FUTURE READY TALENT INTERNSHIP PROGRAM
 
+**Submitted by:**
+Nishu Kumari
+
 ## HEART BOT
 
 **Problem Statement/Opportunity:**
@@ -25,3 +28,8 @@ useful information about heart failure to its user's and also available 24x7 wit
 
 
 **Project URL**: https://black-mud-04a9e3610.1.azurestaticapps.net
+
+ **Email ID:**
+ nishudubey2000@gmail.com
+ 
+ If you have any queries and suggestions feel free to contact me there!!!!
