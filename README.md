@@ -13,5 +13,8 @@ useful information about heart failure to its user's and also available 24x7 wit
 ### Screenshots of working project:
 ![Heart-bot-photo1](https://user-images.githubusercontent.com/91931786/154797208-79fa1acd-f349-4d91-b6a7-0fa6aec1a963.PNG)
 
+![Heart-bot-photo2](https://user-images.githubusercontent.com/91931786/154797300-6e61a3ec-d296-455a-8660-7e0123e27741.PNG)
+
+
 
 **Project URL**: https://black-mud-04a9e3610.1.azurestaticapps.net
