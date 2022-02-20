@@ -8,7 +8,7 @@ The program is open to all students who will be joining the workforce in next 2 
 **Submitted by:**
 Nishu Kumari
 
-## HEART BOT
+## HEART❤BOT
 
 **Problem Statement/Opportunity:**
 People want someone who are available 24x7 to solve their basic queries related to heart failure like-what is heart failure, 
@@ -39,6 +39,6 @@ useful information about heart failure to its user's and also available 24x7 wit
  **Email ID:**
  nishudubey2000@gmail.com
  
- If you have any queries and suggestions feel free to contact me there!!!!
+ If you have any queries and suggestions feel free to contact me on provided email id and on GitHub!!!!
  
  Thank you Future Ready Talent Program for providing me this great opportunity :))
