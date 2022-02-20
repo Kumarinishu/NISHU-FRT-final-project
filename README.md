@@ -34,7 +34,7 @@ useful information about heart failure to its user's and also available 24x7 wit
 
 
 
-**Project URL**: https://black-mud-04a9e3610.1.azurestaticapps.net
+**Project Demo URL:👉👉** https://black-mud-04a9e3610.1.azurestaticapps.net
 
  **Email ID:**
  nishudubey2000@gmail.com
